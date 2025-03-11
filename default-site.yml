@@ -1,6 +1,6 @@
 ---
 site:
-  title: Showroom Template Demo
+  title: "LB1755: Migrate now with the Migration Toolkit for Virtualization"
   url: https://redhat-scholars.github.io/course-template
   start_page: modules::index.adoc
 

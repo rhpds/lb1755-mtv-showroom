@@ -1,5 +1,5 @@
 name: modules
-title: Default Title
+title: "LB1755: Migrate now with the Migration Toolkit for Virtualization"
 version: master
 nav:
   - modules/ROOT/nav.adoc
