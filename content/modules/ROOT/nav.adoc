@@ -1,2 +1,3 @@
 * xref:index.adoc[]
 * xref:module-01-mtv.adoc[]
+* xref:module-08-workingvms.adoc[]
